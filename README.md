@@ -1,24 +1,20 @@
-# Note-Taker
+# Express Homework: Note-Taker
 Note Taker with Express
 
-## Quick Video 
+## Screenshot
 
-![Image](/NoteTaker.gif)
+![Image](/screenshot.JPG)
 
-If this screen may be too small please feel free to check out this link [My Note Taker Video](https://drive.google.com/file/d/1RX-tSVSm8iC-_4weDqgk5xpiKkhtBKXX/view)
 
 ## Description
 
-Created an application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
+This application allows a user to take notes beginning with a title and then subsequent notes within the title. The notes can be saved and can also be deleted, and edited. 
 
-## User Story
+The application is deployed on Heroku and the code can be found on Github at:
+<a href="https://github.com/scotwoodland/Notetaker-App">Github Repository - Notetaker-App</a>
 
-AS A user, I want to be able to write and save notes
+<br>
 
-I WANT to be able to delete notes I've written before
+## Link to Deployed Application
 
-SO THAT I can organize my thoughts and keep track of tasks I need to complete
-
-## Business Context
-
-For users that need to keep track of a lot of information, it's easy to forget or be unable to recall something important. Being able to take persistent notes allows users to have written information available when needed.
+<a href="https://the-notetaking-master.herokuapp.com/"> Link to Deployed Application on Heroku!</a>
