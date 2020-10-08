@@ -1,5 +1,8 @@
 # Express Homework: Note-Taker
-Note Taker with Express
+Creating a note-taking app using both Express and using Heroku.
+
+<br>
+<br>
 
 ## Screenshot
 
